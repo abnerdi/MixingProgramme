@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+CPlus封装CS的dll，然后CPlusConsole调用CplusWrapper/CSDll/CSDll/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
